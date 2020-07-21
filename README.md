@@ -1,3 +1,3 @@
-# Insta_Clone
+# Instagram_Clone
 
 MERN STACK 
