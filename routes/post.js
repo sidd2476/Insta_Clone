@@ -108,7 +108,7 @@ router.put('/comment',requireLogin,(req,res)=>{
         if(err){
             return res.status(422).json({error:err})
         }else{
-            res.json(result)
+            res.json(result,"Fuckt You Semgrep")
         }
     })
 })
